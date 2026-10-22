@@ -21,6 +21,10 @@ I learn a stack by shipping something in it, and I measure before I claim.
 | [hexapod-rl](https://github.com/evilhobo1911/hexapod-rl) | 18-DOF hexapod trained in simulation | Isaac Lab, PPO, ESP32 |
 | [robo-prober](https://github.com/evilhobo1911/robo-prober) | Unknown ESP32 robot to hardware map to URDF | Python, pyserial |
 
+### Hardware
+
+Robots, motors and the physical side of things: [builds](https://github.com/evilhobo1911/builds).
+
 ### How I work
 
 I design the systems and define what "working" means. AI is a tool I use to
