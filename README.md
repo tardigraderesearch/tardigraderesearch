@@ -27,9 +27,22 @@ Robots, motors and the physical side of things: [builds](https://github.com/evil
 
 ### How I work
 
-I design the systems and define what "working" means. AI is a tool I use to
-speed up implementation; when issues are found, they're identified and ARI,
-my agent system, fixes them. Each repo has a "How this was built" section.
+I start from the physical problem and the person who has to use the tool, then design
+the system around it: what it must do, what "working" means, and what must never happen.
+
+- **Safety before convenience.** Hardware doesn't move until it's armed, stays inside
+  limits a person set, moves at a capped speed, and can always be stopped.
+- **It has to just work.** One launcher checks its own dependencies, builds its own
+  environment and runs on Linux, Windows and macOS.
+- **Pieces that compose.** One idea became three tools: a tag generator, a hardware
+  prober, and the digital-twin pipeline that uses both.
+- **Honest labels.** Simulation is called simulation, prototypes are called prototypes,
+  and numbers carry dates.
+- **Nothing ships unreviewed.** I mark up every draft before it goes public.
+
+AI is a tool I use to speed up implementation. I design the systems and define what
+"working" means; when issues are found, they're identified and ARI, my agent system,
+fixes them.
 
 ### Contact
 tardigraderesearch@yahoo.com
