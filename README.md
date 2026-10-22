@@ -9,14 +9,15 @@ I learn a stack by shipping something in it, and I measure before I claim.
   injuries run on a medical simulation instead of HP bars. Source private;
   showcase coming soon.
 - **PoseBridge** — pose a tagged, 3D-printed figure on a turntable and get an
-  editable Blender rig and an Unreal animation. Showcase coming soon.
+  editable Blender rig and an Unreal animation. Showcase: [posebridge](https://github.com/evilhobo1911/posebridge).
 - **ARI** — a personal AI whose memory lives in a plain-text vault, so the model
-  underneath is replaceable. Demo coming soon.
+  underneath is replaceable. Showcase: [ari](https://github.com/evilhobo1911/ari).
 
 ### Open source
 
 | Repo | What it does | Stack |
 |---|---|---|
+| [obsidian-agent-runtime](https://github.com/evilhobo1911/obsidian-agent-runtime) | Persistent, searchable vault memory for Claude Code | Python, MCP, SQLite FTS5 |
 | [hexapod-rl](https://github.com/evilhobo1911/hexapod-rl) | 18-DOF hexapod trained in simulation | Isaac Lab, PPO, ESP32 |
 | [robo-prober](https://github.com/evilhobo1911/robo-prober) | Unknown ESP32 robot to hardware map to URDF | Python, pyserial |
 
