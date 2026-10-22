@@ -7,17 +7,16 @@ I learn a stack by shipping something in it, and I measure before I claim.
 
 - **Strife** — a UE5 sandbox where buildings fail along real load paths and
   injuries run on a medical simulation instead of HP bars. Source private;
-  results and media are in [strife-showcase](https://github.com/evilhobo1911/strife-showcase).
+  showcase coming soon.
 - **PoseBridge** — pose a tagged, 3D-printed figure on a turntable and get an
-  editable Blender rig and an Unreal animation. Showcase: [posebridge](https://github.com/evilhobo1911/posebridge).
+  editable Blender rig and an Unreal animation. Showcase coming soon.
 - **ARI** — a personal AI whose memory lives in a plain-text vault, so the model
-  underneath is replaceable. Demo and results: [ari](https://github.com/evilhobo1911/ari).
+  underneath is replaceable. Demo coming soon.
 
 ### Open source
 
 | Repo | What it does | Stack |
 |---|---|---|
-| [obsidian-agent-runtime](https://github.com/evilhobo1911/obsidian-agent-runtime) | Persistent memory + MCP search for Claude Code | Python, MCP, SQLite FTS5 |
 | [hexapod-rl](https://github.com/evilhobo1911/hexapod-rl) | 18-DOF hexapod trained in simulation | Isaac Lab, PPO, ESP32 |
 | [robo-prober](https://github.com/evilhobo1911/robo-prober) | Unknown ESP32 robot to hardware map to URDF | Python, pyserial |
 
