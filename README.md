@@ -1,4 +1,4 @@
-# Hi — I build things that have to actually work.
+# I build things.
 
 Game engines, AI agents, robots, and the tooling that holds them together.
 I learn a stack by shipping something in it, and I measure before I claim.
