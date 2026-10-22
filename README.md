@@ -34,8 +34,8 @@ the system around it: what it must do, what "working" means, and what must never
   limits a person set, moves at a capped speed, and can always be stopped.
 - **It has to just work.** One launcher checks its own dependencies, builds its own
   environment and runs on Linux, Windows and macOS.
-- **Pieces that compose.** One idea became three tools: a tag generator, a hardware
-  prober, and the digital-twin pipeline that uses both.
+- **Pieces that compose.** I break big systems into tools that stand on their own and
+  plug into each other.
 - **Honest labels.** Simulation is called simulation, prototypes are called prototypes,
   and numbers carry dates.
 - **Nothing ships unreviewed.** I mark up every draft before it goes public.
