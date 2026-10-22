@@ -26,3 +26,6 @@ I learn a stack by shipping something in it, and I measure before I claim.
 I design the systems and define what "working" means. AI is a tool I use to
 speed up implementation; when issues are found, they're identified and ARI,
 my agent system, fixes them. Each repo has a "How this was built" section.
+
+### Contact
+tardigraderesearch@yahoo.com
