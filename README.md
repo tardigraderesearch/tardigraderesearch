@@ -12,7 +12,7 @@ I learn a stack by shipping something in it, and I measure before I claim.
   exports a URDF with real joint limits. Showcase: [digital-twin-generator](https://github.com/tardigraderesearch/digital-twin-generator).
 - **Strife** — a UE5 sandbox where buildings fail along real load paths and
   injuries run on a medical simulation instead of HP bars. Source private;
-  preview: [strife](strife/README.md).
+  devlog: [strife-devlog](https://github.com/tardigraderesearch/strife-devlog).
 - **PoseBridge** — pose a tagged, 3D-printed figure on a turntable and get an
   editable Blender rig and an Unreal pose. Showcase: [posebridge](https://github.com/tardigraderesearch/posebridge).
 - **ARI** — a personal AI whose memory lives in a plain-text vault, so the model
