@@ -44,9 +44,5 @@ the system around it: what it must do, what "working" means, and what must never
   and numbers carry dates.
 - **Nothing ships unreviewed.** I mark up every draft before it goes public.
 
-AI is a tool I use to speed up implementation. I design the systems and define what
-"working" means; when issues are found, they're identified and ARI, my agent system,
-fixes them.
-
 ### Contact
 tardigraderesearch@yahoo.com
