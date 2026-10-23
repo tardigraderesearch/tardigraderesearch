@@ -9,27 +9,27 @@ I learn a stack by shipping something in it, and I measure before I claim.
 
 - **Digital Twin Generator** — built robot in, verified simulation-ready model out. A camera
   watches each servo wiggle and sweep its range, then the tool cuts the 3D scan into links and
-  exports a URDF with real joint limits. Showcase: [digital-twin-generator](https://github.com/evilhobo1911/digital-twin-generator).
+  exports a URDF with real joint limits. Showcase: [digital-twin-generator](https://github.com/tardigraderesearch/digital-twin-generator).
 - **Strife** — a UE5 sandbox where buildings fail along real load paths and
   injuries run on a medical simulation instead of HP bars. Source private;
   preview: [strife](strife/README.md).
 - **PoseBridge** — pose a tagged, 3D-printed figure on a turntable and get an
-  editable Blender rig and an Unreal pose. Showcase: [posebridge](https://github.com/evilhobo1911/posebridge).
+  editable Blender rig and an Unreal pose. Showcase: [posebridge](https://github.com/tardigraderesearch/posebridge).
 - **ARI** — a personal AI whose memory lives in a plain-text vault, so the model
-  underneath is replaceable. Showcase: [ari](https://github.com/evilhobo1911/ari).
+  underneath is replaceable. Showcase: [ari](https://github.com/tardigraderesearch/ari).
 
 ### Open source
 
 | Repo | What it does | Stack |
 |---|---|---|
-| [obsidian-agent-runtime](https://github.com/evilhobo1911/obsidian-agent-runtime) | Persistent, searchable vault memory for Claude Code | Python, MCP, SQLite FTS5 |
-| [hexapod-rl](https://github.com/evilhobo1911/hexapod-rl) | 18-DOF hexapod trained in simulation | Isaac Lab, PPO, ESP32 |
-| [robo_prober](https://github.com/evilhobo1911/robo_prober) | Map an unknown servo robot; safe firmware and range-of-motion tool | Python, C++, ESP32 |
-| [aruco-tag-maker](https://github.com/evilhobo1911/aruco-tag-maker) | Named ArUco tags as printable STLs plus a lookup file | Python, OpenCV, tkinter |
+| [obsidian-agent-runtime](https://github.com/tardigraderesearch/obsidian-agent-runtime) | Persistent, searchable vault memory for Claude Code | Python, MCP, SQLite FTS5 |
+| [hexapod-rl](https://github.com/tardigraderesearch/hexapod-rl) | 18-DOF hexapod trained in simulation | Isaac Lab, PPO, ESP32 |
+| [robo_prober](https://github.com/tardigraderesearch/robo_prober) | Map an unknown servo robot; safe firmware and range-of-motion tool | Python, C++, ESP32 |
+| [aruco-tag-maker](https://github.com/tardigraderesearch/aruco-tag-maker) | Named ArUco tags as printable STLs plus a lookup file | Python, OpenCV, tkinter |
 
 ### Hardware
 
-Robots, motors and the physical side of things: [builds](https://github.com/evilhobo1911/builds).
+Robots, motors and the physical side of things: [builds](https://github.com/tardigraderesearch/builds).
 
 ### How I work
 
