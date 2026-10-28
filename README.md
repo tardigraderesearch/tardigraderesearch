@@ -1,40 +1,19 @@
-<img src="media/hero.jpg" alt="I build robots that walk and map themselves, AI agents that remember and code, and tooling that takes robots from simulation to reality" width="100%">
+<p align="center"><img src="media/hero.png" alt="I build robots that walk and map themselves, AI agents that remember and code, and tooling that takes robots from simulation to reality" width="100%"></p>
 
 <p align="center"><b>Click any tile to open the project.</b><br>
 <a href="mailto:tardigraderesearch@yahoo.com">tardigraderesearch@yahoo.com</a></p>
 
 ### Robots
 
-<table>
-<tr>
-<td><a href="https://github.com/tardigraderesearch/hexapod-rl"><img src="media/tiles/hexapod-rl.jpg" width="370" alt="Hexapod: a six-legged robot I designed and built, taught to walk in simulation. Click to open the repo."></a></td>
-<td><a href="https://github.com/tardigraderesearch/robo_prober"><img src="media/tiles/robo_prober.jpg" width="370" alt="Robo Prober: plug in an unknown robot and it finds its own motors and safe limits. Click to open the repo."></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/tardigraderesearch/builds"><img src="media/tiles/builds.jpg" width="370" alt="Builds: robots, a hand-wound electric motor and the hardware I make. Click to open the repo."></a></td>
-<td><a href="https://github.com/tardigraderesearch/digital-twin-generator"><img src="media/tiles/digital-twin-generator.jpg" width="370" alt="Digital Twin: real robot in, simulation-ready model out. Click to open the repo."></a></td>
-</tr>
-</table>
+<p align="center"><a href="https://github.com/tardigraderesearch/hexapod-rl"><img src="media/cards/hexapod-rl.png" width="50%" align="top" alt="Hexapod: a six-legged robot I designed and built, taught to walk in simulation. Click to open the repo."></a><a href="https://github.com/tardigraderesearch/robo_prober"><img src="media/cards/robo_prober.png" width="50%" align="top" alt="Robo Prober: plug in an unknown robot and it finds its own motors and safe limits. Click to open the repo."></a><a href="https://github.com/tardigraderesearch/builds"><img src="media/cards/builds.png" width="50%" align="top" alt="Builds: robots, a hand-wound electric motor and the hardware I make. Click to open the repo."></a><a href="https://github.com/tardigraderesearch/digital-twin-generator"><img src="media/cards/digital-twin-generator.png" width="50%" align="top" alt="Digital Twin: real robot in, simulation-ready model out. Click to open the repo."></a></p>
 
 ### AI agents
 
-<table>
-<tr>
-<td><a href="https://github.com/tardigraderesearch/ari"><img src="media/tiles/ari.jpg" width="768" alt="ARI: my personal AI assistant. Its memory is a vault of notes I own, so any AI model can run it. Click to open the repo."></a></td>
-</tr>
-</table>
+<p align="center"><a href="https://github.com/tardigraderesearch/ari"><img src="media/cards/ari.png" width="100%" align="top" alt="ARI: my personal AI assistant. Its memory is a vault of notes I own, so any AI model can run it. Click to open the repo."></a></p>
 
 ### Tooling
 
-<table>
-<tr>
-<td><a href="https://github.com/tardigraderesearch/aruco-tag-maker"><img src="media/tiles/aruco-tag-maker.jpg" width="370" alt="ArUco Tag Maker: prints named tags that let a camera track real objects in 3D. Click to open the repo."></a></td>
-<td><a href="https://github.com/tardigraderesearch/posebridge"><img src="media/tiles/posebridge.jpg" width="370" alt="PoseBridge: pose a figure by hand and get the same pose in Blender and Unreal. Click to open the repo."></a></td>
-</tr>
-<tr>
-<td colspan="2"><a href="https://github.com/tardigraderesearch/digital_twin_generator"><img src="media/tiles/digital_twin_generator.jpg" width="768" alt="Digital Twin Generator app: eight guided steps from 3D scan to a robot model a simulator can load. Click to open the repo."></a></td>
-</tr>
-</table>
+<p align="center"><a href="https://github.com/tardigraderesearch/aruco-tag-maker"><img src="media/cards/aruco-tag-maker.png" width="50%" align="top" alt="ArUco Tag Maker: prints named tags that let a camera track real objects in 3D. Click to open the repo."></a><a href="https://github.com/tardigraderesearch/posebridge"><img src="media/cards/posebridge.png" width="50%" align="top" alt="PoseBridge: pose a figure by hand and get the same pose in Blender and Unreal. Click to open the repo."></a><a href="https://github.com/tardigraderesearch/digital_twin_generator"><img src="media/cards/digital_twin_generator.png" width="100%" align="top" alt="Digital Twin Generator app: eight guided steps from 3D scan to a robot model a simulator can load. Click to open the repo."></a></p>
 
 ### Currently
 
