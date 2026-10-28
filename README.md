@@ -1,5 +1,3 @@
-<p align="center"><img src="media/hero.png" alt="Self-taught roboticist. I bridge simulation and real hardware: robots that find their own motors and learn to walk, AI agents that remember everything and write code, and tooling that takes robots from simulation to reality" width="100%"></p>
-
 <p align="center"><b>Every tile is a project. Click one to open it.</b><br>
 <a href="mailto:tardigraderesearch@yahoo.com">tardigraderesearch@yahoo.com</a></p>
 
