@@ -13,10 +13,6 @@
 <p align="center"><a href="https://github.com/tardigraderesearch/aruco-tag-maker"><img src="media/tiles/aruco-tag-maker.gif" width="49%" alt="ArUco Tag Maker: prints named tags that let a camera track real objects in 3D. Click to open the repo."></a>&nbsp;<a href="https://github.com/tardigraderesearch/aruco_simulator"><img src="media/tiles/aruco_simulator.gif" width="49%" alt="ArUco Simulator: drag tags onto a 3D model and test whether a virtual camera can read them. Click to open the repo."></a>
 <a href="https://github.com/tardigraderesearch/posebridge"><img src="media/tiles/posebridge.gif" width="49%" alt="PoseBridge: pose a figure by hand and get the same pose in Blender and Unreal. Click to open the repo."></a>&nbsp;<a href="https://github.com/tardigraderesearch/builds"><img src="media/tiles/builds.gif" width="49%" alt="Builds: robots, a hand-wound electric motor and the other hardware I make. Click to open the repo."></a></p>
 
-### Currently
-
-**U.S. Air Force Independent Duty Medical Technician (Staff Sergeant).** A credentialed provider who has treated 6,000+ patients without an on-site physician, and an instructor for the rescue teams that cover astronauts and Navy SEALs.
-
 ### How I work
 
 I start from the physical problem and the person who has to use the tool, then design
