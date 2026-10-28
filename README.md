@@ -1,18 +1,18 @@
 <img src="media/hero.jpg" alt="I build robots that walk and map themselves, AI agents that remember and code, and tooling that takes robots from simulation to reality" width="100%">
 
-<p align="center"><b>Every tile flips to a live demo. Click one to open the project.</b><br>
+<p align="center"><b>Click any tile to open the project.</b><br>
 <a href="mailto:tardigraderesearch@yahoo.com">tardigraderesearch@yahoo.com</a></p>
 
 ### Robots
 
 <table>
 <tr>
-<td><a href="https://github.com/tardigraderesearch/hexapod-rl"><img src="media/tiles/hexapod-rl.gif" width="370" alt="Hexapod: a six-legged robot I designed and built, taught to walk in simulation. Click to open the repo."></a></td>
-<td><a href="https://github.com/tardigraderesearch/robo_prober"><img src="media/tiles/robo_prober.gif" width="370" alt="Robo Prober: plug in an unknown robot and it finds its own motors and safe limits. Click to open the repo."></a></td>
+<td><a href="https://github.com/tardigraderesearch/hexapod-rl"><img src="media/tiles/hexapod-rl.jpg" width="370" alt="Hexapod: a six-legged robot I designed and built, taught to walk in simulation. Click to open the repo."></a></td>
+<td><a href="https://github.com/tardigraderesearch/robo_prober"><img src="media/tiles/robo_prober.jpg" width="370" alt="Robo Prober: plug in an unknown robot and it finds its own motors and safe limits. Click to open the repo."></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/tardigraderesearch/builds"><img src="media/tiles/builds.gif" width="370" alt="Builds: robots, a hand-wound electric motor and the hardware I make. Click to open the repo."></a></td>
-<td><a href="https://github.com/tardigraderesearch/digital-twin-generator"><img src="media/tiles/digital-twin-generator.gif" width="370" alt="Digital Twin: real robot in, simulation-ready model out. Click to open the repo."></a></td>
+<td><a href="https://github.com/tardigraderesearch/builds"><img src="media/tiles/builds.jpg" width="370" alt="Builds: robots, a hand-wound electric motor and the hardware I make. Click to open the repo."></a></td>
+<td><a href="https://github.com/tardigraderesearch/digital-twin-generator"><img src="media/tiles/digital-twin-generator.jpg" width="370" alt="Digital Twin: real robot in, simulation-ready model out. Click to open the repo."></a></td>
 </tr>
 </table>
 
@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td><a href="https://github.com/tardigraderesearch/ari"><img src="media/tiles/ari.gif" width="768" alt="ARI: my personal AI assistant. Its memory is a vault of notes I own, so any AI model can run it. Click to open the repo."></a></td>
+<td><a href="https://github.com/tardigraderesearch/ari"><img src="media/tiles/ari.jpg" width="768" alt="ARI: my personal AI assistant. Its memory is a vault of notes I own, so any AI model can run it. Click to open the repo."></a></td>
 </tr>
 </table>
 
@@ -28,11 +28,11 @@
 
 <table>
 <tr>
-<td><a href="https://github.com/tardigraderesearch/aruco-tag-maker"><img src="media/tiles/aruco-tag-maker.gif" width="370" alt="ArUco Tag Maker: prints named tags that let a camera track real objects in 3D. Click to open the repo."></a></td>
-<td><a href="https://github.com/tardigraderesearch/posebridge"><img src="media/tiles/posebridge.gif" width="370" alt="PoseBridge: pose a figure by hand and get the same pose in Blender and Unreal. Click to open the repo."></a></td>
+<td><a href="https://github.com/tardigraderesearch/aruco-tag-maker"><img src="media/tiles/aruco-tag-maker.jpg" width="370" alt="ArUco Tag Maker: prints named tags that let a camera track real objects in 3D. Click to open the repo."></a></td>
+<td><a href="https://github.com/tardigraderesearch/posebridge"><img src="media/tiles/posebridge.jpg" width="370" alt="PoseBridge: pose a figure by hand and get the same pose in Blender and Unreal. Click to open the repo."></a></td>
 </tr>
 <tr>
-<td colspan="2"><a href="https://github.com/tardigraderesearch/digital_twin_generator"><img src="media/tiles/digital_twin_generator.gif" width="768" alt="Digital Twin Generator app: eight guided steps from 3D scan to a robot model a simulator can load. Click to open the repo."></a></td>
+<td colspan="2"><a href="https://github.com/tardigraderesearch/digital_twin_generator"><img src="media/tiles/digital_twin_generator.jpg" width="768" alt="Digital Twin Generator app: eight guided steps from 3D scan to a robot model a simulator can load. Click to open the repo."></a></td>
 </tr>
 </table>
 
